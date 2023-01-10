@@ -1,6 +1,7 @@
-import pygame as pg
-import sys
 import random
+import sys
+
+import pygame as pg
 
 
 class MatrixLetters:
